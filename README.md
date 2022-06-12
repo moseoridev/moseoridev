@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, 안녕하세요! 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=moseoridev)](https://git.io/typing-svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moseoridev)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moseoridev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moseoridev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eric1344)](https://solved.ac/eric1344)
 
 <!--
 **moseoridev/moseoridev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
